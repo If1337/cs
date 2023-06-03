@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\cf_kukri\PV-Kukri_RoyalDragon5"
+	"$bumpmap"  "models\weapons\v_models\cf_kukri\PV-Kukri_RoyalDragon5_N"
+	  "$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"5"
+	"$phongboost" ".5"
+	"$phongfresnelranges" "[.9 1.5 1]"
+}
+
+
+
