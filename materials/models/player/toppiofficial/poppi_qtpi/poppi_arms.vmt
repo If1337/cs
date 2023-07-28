@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/poppi_qtpi/poppi_arms"
+
+	$lightwarptexture "models/player/toppiofficial/public/lightwarp"
+
+	$nodecal 1
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/yi/public/outline"
+
+	$lightwarptexture "models/player/yi/public/lightwarp"
+
+	$nodecal 1
+}

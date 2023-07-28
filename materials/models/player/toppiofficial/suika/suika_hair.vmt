@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/suika/suika_hair"
+
+	$lightwarptexture "models/player/toppiofficial/public/lightwarp"
+
+	$nodecal 1
+}

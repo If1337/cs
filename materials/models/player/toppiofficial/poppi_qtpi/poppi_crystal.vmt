@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	$basetexture "models/player/toppiofficial/poppi_qtpi/poppi_crystal"
+
+	$nodecal 1
+}

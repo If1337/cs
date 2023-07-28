@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/arcaea/azurelane/bismarck/cloth"
+
+	$lightwarptexture "models/player/arcaea/public/lightwarp_2"
+
+	$nocull 1
+
+	$nodecal 1
+}

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/suika/suika_tex02"
+
+	$lightwarptexture "models/player/toppiofficial/public/lightwarp"
+
+	$translucent 1
+
+	$nodecal 1
+}

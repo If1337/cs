@@ -1,0 +1,20 @@
+//This is a attempt to replicate a MMD Shader into the Source Engine.
+//The shader is made from scratch by ToppiOfficial
+//You are free to use this shader using the "patch" material settings for your models.
+//DO NOT REMOVE THIS NOTE IN ANY WAY POSSIBLE.
+//DO NOT MESSAGE ME ON HOW TO USE THIS SHADER.
+//YOU ARE FREE TO EDIT THE SETTINGS BELOW BUT YOU ARE NOT ALLOWED TO PLACED THE MODIFIED VMT OUTSIDE ITS FOLDER.
+VertexLitGeneric
+{
+	$lightwarptexture "models/player/toppiofficial/shared/shader/toon_1"
+	$phongexponenttexture "models/player/toppiofficial/shared/shader/phong_exp"
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0 0 5]"
+	$phongalbedotint 1
+	$phongboost 5
+
+	$nodecal 1
+}

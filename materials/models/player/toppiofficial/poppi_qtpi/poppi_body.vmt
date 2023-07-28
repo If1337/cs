@@ -1,0 +1,28 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/poppi_qtpi/poppi_body"
+
+	$lightwarptexture "models/player/toppiofficial/public/lightwarp"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+	$phongboost 0
+	$phongalbedoboost 0
+
+	$selfillum 1
+	$selfillummask "models/player/toppiofficial/poppi_qtpi/poppi_body_selfillum"
+
+	$nodecal 1
+
+	Proxies
+	{
+		Sine
+		{
+			sineperiod 0.8
+			sinemin 1
+			sinemax 10
+			resultvar "$selfillumtint"
+		}
+	}
+}
